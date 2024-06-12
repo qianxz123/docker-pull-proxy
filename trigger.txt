@@ -1,2 +1,2 @@
-nas-tools:3.2.3-debian registry.cn-hangzhou.aliyuncs.com/qxz-nas/nas-tools:3.2.3
+nastool/nas-tools:3.2.3-debian registry.cn-hangzhou.aliyuncs.com/qxz-nas/nas-tools:3.2.3
 
