@@ -1,1 +1,2 @@
 nastool/nas-tools:3.2.3-debian registry.cn-hangzhou.aliyuncs.com/qxz-nas/nas-tools:3.2.3
+linkease/ddnsto:3.0.0 registry.cn-hangzhou.aliyuncs.com/qxz-nas/ddnsto:3.0.0
