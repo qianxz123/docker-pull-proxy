@@ -3,3 +3,5 @@ linkease/ddnsto:3.0.0 registry.cn-hangzhou.aliyuncs.com/qxz-nas/ddnsto:3.0.0
 superng6/qbittorrent:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/qbittorrent:latest
 xhofe/alist:main registry.cn-hangzhou.aliyuncs.com/qxz-nas/alist:main
 kangkang223/reader:v2.0.3 registry.cn-hangzhou.aliyuncs.com/qxz-nas/reader:v2.0.3
+jxxghp/moviepilot:1.9.4-1 registry.cn-hangzhou.aliyuncs.com/qxz-nas/moviepilot:1.9.4-1
+iyuucn/iyuuplus:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/iyuuplus:latest
