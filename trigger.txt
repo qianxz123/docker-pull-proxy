@@ -7,4 +7,5 @@
 #iyuucn/iyuuplus:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/iyuuplus:latest
 #linuxserver/jackett:0.22.127 registry.cn-hangzhou.aliyuncs.com/qxz-nas/jackett:0.22.127
 #nastool/nas-tools:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/nas-tools:latest
-openwrtdsm/nastool:2.9.1 registry.cn-hangzhou.aliyuncs.com/qxz-nas/nas-tools:2.9.1
+#openwrtdsm/nastool:2.9.1 registry.cn-hangzhou.aliyuncs.com/qxz-nas/nas-tools:2.9.1
+linuxserver/prowlarr:1.19.0-nightly registry.cn-hangzhou.aliyuncs.com/qxz-nas/prowlarr:1.19.0
