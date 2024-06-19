@@ -9,4 +9,5 @@
 #nastool/nas-tools:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/nas-tools:latest
 #openwrtdsm/nastool:2.9.1 registry.cn-hangzhou.aliyuncs.com/qxz-nas/nas-tools:2.9.1
 #linuxserver/prowlarr:1.19.0-nightly registry.cn-hangzhou.aliyuncs.com/qxz-nas/prowlarr:1.19.0
-jlesage/firefox:v24.05.1 registry.cn-hangzhou.aliyuncs.com/qxz-nas/firefox:v24.05.1
+#jlesage/firefox:v24.05.1 registry.cn-hangzhou.aliyuncs.com/qxz-nas/firefox:v24.05.1
+jxxghp/moviepilot:1.9.6 registry.cn-hangzhou.aliyuncs.com/qxz-nas/moviepilot:1.9.6
