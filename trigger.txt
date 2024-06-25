@@ -12,4 +12,5 @@
 #jlesage/firefox:v24.05.1 registry.cn-hangzhou.aliyuncs.com/qxz-nas/firefox:v24.05.1
 #jxxghp/moviepilot:1.9.6 registry.cn-hangzhou.aliyuncs.com/qxz-nas/moviepilot:1.9.6
 #szzhoubanxian/reseed-puppy:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/reseed-puppy:lastest
-szzhoubanxian/reseed-puppy:dev registry.cn-hangzhou.aliyuncs.com/qxz-nas/reseed-puppy:dev
+#szzhoubanxian/reseed-puppy:dev registry.cn-hangzhou.aliyuncs.com/qxz-nas/reseed-puppy:dev
+centos:centos7.9.2009 registry.cn-hangzhou.aliyuncs.com/qxz-nas/centos7.9.2009
