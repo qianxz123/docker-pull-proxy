@@ -13,4 +13,5 @@
 #jxxghp/moviepilot:1.9.6 registry.cn-hangzhou.aliyuncs.com/qxz-nas/moviepilot:1.9.6
 #szzhoubanxian/reseed-puppy:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/reseed-puppy:lastest
 #szzhoubanxian/reseed-puppy:dev registry.cn-hangzhou.aliyuncs.com/qxz-nas/reseed-puppy:dev
-centos:centos7.9.2009 registry.cn-hangzhou.aliyuncs.com/qxz-nas/centos7.9.2009
+#centos:centos7.9.2009 registry.cn-hangzhou.aliyuncs.com/qxz-nas/centos7.9.2009
+linuxserver/emby:4.9.0-beta registry.cn-hangzhou.aliyuncs.com/qxz-nas/emby:4.9.0-beta
