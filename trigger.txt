@@ -18,5 +18,7 @@
 #gotson/komga:1.x registry.cn-hangzhou.aliyuncs.com/qxz-nas/komga:1.x
 #ddsderek/tachidesk:stable registry.cn-hangzhou.aliyuncs.com/qxz-nas/tachidesk:stable
 #linuxserver/heimdall:development-version-f405cf2d registry.cn-hangzhou.aliyuncs.com/qxz-nas/heimdall:lastest
-difegue/lanraragi:v.0.9.10 registry.cn-hangzhou.aliyuncs.com/qxz-nas/lanraragi:lastest
-realforcez/autobangumi:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/autobangumi:lastest
+#difegue/lanraragi:v.0.9.10 registry.cn-hangzhou.aliyuncs.com/qxz-nas/lanraragi:lastest
+#realforcez/autobangumi:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/autobangumi:lastest
+togettoyou/ghcr.io.benphelps.homepage:v0.6.35 registry.cn-hangzhou.aliyuncs.com/qxz-nas/homepage:lastest
+ 
