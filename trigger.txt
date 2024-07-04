@@ -17,6 +17,6 @@
 #linuxserver/emby:4.9.0-beta registry.cn-hangzhou.aliyuncs.com/qxz-nas/emby:4.9.0-beta
 #gotson/komga:1.x registry.cn-hangzhou.aliyuncs.com/qxz-nas/komga:1.x
 #ddsderek/tachidesk:stable registry.cn-hangzhou.aliyuncs.com/qxz-nas/tachidesk:stable
-linuxserver/heimdall:development-version-f405cf2d registry.cn-hangzhou.aliyuncs.com/qxz-nas/heimdall:lastest
+#linuxserver/heimdall:development-version-f405cf2d registry.cn-hangzhou.aliyuncs.com/qxz-nas/heimdall:lastest
 difegue/lanraragi:v.0.9.10 registry.cn-hangzhou.aliyuncs.com/qxz-nas/lanraragi:lastest
-realforcez/autobangumi:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/lanraragi:lastest
+realforcez/autobangumi:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/autobangumi:lastest
