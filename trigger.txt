@@ -23,5 +23,5 @@
 #togettoyou/ghcr.io.benphelps.homepage:v0.6.35 registry.cn-hangzhou.aliyuncs.com/qxz-nas/homepage:lastest
 #dezhao/mango_cn:0.27.0 registry.cn-hangzhou.aliyuncs.com/qxz-nas/mango_cn:0.27.0
 #wzl778633/vanislord_manga:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/vanislord_manga:latest
-#dezhao/tachidesk_cn:0.6.3 registry.cn-hangzhou.aliyuncs.com/qxz-nas/vanislord_manga:latest
-talebook/talebook:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/vanislord_manga:latest
+dezhao/tachidesk_cn:0.6.3 registry.cn-hangzhou.aliyuncs.com/qxz-nas/tachidesk_cn:0.6.3
+talebook/talebook:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/talebook:latest
