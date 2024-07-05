@@ -21,5 +21,6 @@
 #difegue/lanraragi:v.0.9.10 registry.cn-hangzhou.aliyuncs.com/qxz-nas/lanraragi:lastest
 #realforcez/autobangumi:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/autobangumi:lastest
 #togettoyou/ghcr.io.benphelps.homepage:v0.6.35 registry.cn-hangzhou.aliyuncs.com/qxz-nas/homepage:lastest
-dezhao/mango_cn:0.27.0 registry.cn-hangzhou.aliyuncs.com/qxz-nas/mango_cn:0.27.0
+#dezhao/mango_cn:0.27.0 registry.cn-hangzhou.aliyuncs.com/qxz-nas/mango_cn:0.27.0
+wzl778633/vanislord_manga:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/mango_cn:0.27.0
 
