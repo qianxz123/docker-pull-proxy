@@ -25,4 +25,7 @@
 #wzl778633/vanislord_manga:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/vanislord_manga:latest
 #dezhao/tachidesk_cn:0.6.3 registry.cn-hangzhou.aliyuncs.com/qxz-nas/tachidesk_cn:0.6.3
 #talebook/talebook:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/talebook:latest
-xiaoyaliu/alist:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_alist:latest
+#xiaoyaliu/alist:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_alist:latest
+xiaoyaliu/glue:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_glue:latest
+xiaoyaliu/emby:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_emby:latest
+
