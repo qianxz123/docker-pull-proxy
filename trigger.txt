@@ -28,6 +28,6 @@
 #xiaoyaliu/alist:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_alist:latest
 #xiaoyaliu/glue:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_glue:latest
 #xiaoyaliu/emby:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_emby:latest
-amilys/embyserver:4.9.0.25 registry.cn-hangzhou.aliyuncs.com/qxz-nas/embyserver:latest
+amilys/embyserver:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/embyserver:latest
 
 
