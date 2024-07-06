@@ -26,6 +26,8 @@
 #dezhao/tachidesk_cn:0.6.3 registry.cn-hangzhou.aliyuncs.com/qxz-nas/tachidesk_cn:0.6.3
 #talebook/talebook:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/talebook:latest
 #xiaoyaliu/alist:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_alist:latest
-xiaoyaliu/glue:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_glue:latest
-xiaoyaliu/emby:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_emby:latest
+#xiaoyaliu/glue:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_glue:latest
+#xiaoyaliu/emby:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_emby:latest
+amilys/embyserver:4.9.0.25 registry.cn-hangzhou.aliyuncs.com/qxz-nas/embyserver:latest
+
 
