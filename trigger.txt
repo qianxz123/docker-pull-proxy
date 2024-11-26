@@ -32,3 +32,4 @@
 haroldli/xiaoya-tvbox:latest registry.cn-hangzhou.aliyuncs.com/qxz-nas/xiaoyaliu_tvbox:latest
 
 
+
